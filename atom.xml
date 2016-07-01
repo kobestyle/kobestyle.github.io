@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-06-24T06:30:42.000Z</updated>
+  <updated>2016-07-01T07:55:35.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>绿茶（百大店）</title>
+    <link href="http://yoursite.com/2016/07/01/%E7%BB%BF%E8%8C%B6%EF%BC%88%E7%99%BE%E5%A4%A7%E5%BA%97%EF%BC%89/"/>
+    <id>http://yoursite.com/2016/07/01/绿茶（百大店）/</id>
+    <published>2016-07-01T07:49:31.000Z</published>
+    <updated>2016-07-01T07:55:35.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/Food/GreenTea/1.jpg&quot; alt=&quot;1&quot; title=&quot;美食&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/Food/GreenTea/2.jpg&quot; alt=&quot;1&quot; title=&quot;美食&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/Food/GreenTea/3.jpg&quot; alt=&quot;1&quot; title=&quot;美食&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/Food/GreenTea/4.jpg&quot; alt=&quot;1&quot; title=&quot;美食&quot;&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/images/Food/GreenTea/1.jpg&quot; alt=&quot;1&quot; title=&quot;美食&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/Food/GreenTea/2.jpg&quot; alt=&quot;1&quot; title=&quot;美食&quot;&gt;&lt;br&gt;&lt;img src=&quot;/im
+    
+    </summary>
+    
+    
+      <category term="Food" scheme="http://yoursite.com/tags/Food/"/>
+    
+  </entry>
   
   <entry>
     <title>KAMAKAMA COCKTAIL &amp; KITCHEN</title>
